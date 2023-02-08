@@ -1,0 +1,32 @@
+html{
+    background-color: #575c61;
+    font-size: 16px;
+    font-family: Impact;
+}
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: #bf9c6b;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+h1{
+    margin: 0;
+    padding: 20px 0;
+    color: #00539f;
+    text-shadow: 3px 3px 10px black;
+    font-size: 60px;
+    text-align: center;
+}
+img{
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+}
+a:hover{
+    color: rgb(166, 48, 88);
+}
+p,li{
+    line-height: 1.25;
+    letter-spacing: 1px;
+}
